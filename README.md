@@ -4,5 +4,5 @@ Proyectos CV
 
 ## Proyectos
 
- -[Landing Page de tipo Potafolio-CV](https://franksymon.github.io/landing-page/portafolio-cv)
+ -[Landing Page de tipo Potafolio-CV](https://franksymon.github.io/landing-page/Portafolio-CV)
 
