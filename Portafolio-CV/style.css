@@ -539,6 +539,15 @@ progress::-moz-progress-bar {
 
 /*_***********Site Styles***********_*/
 
+.icons-p{
+    display: flex;
+    justify-content: center;
+}
+
+.icon-programacion{
+    width: 80px;
+}
+
 .about>article {
     margin-bottom: 2rem;
 }
@@ -730,6 +739,10 @@ progress::-moz-progress-bar {
 }
 
 @media screen and (min-width:1024px) {
+    .icons-p{
+        margin-left: 200px;
+    }
+    
     .about {
         display: grid;
         grid-template-columns: repeat(3, 30%);
